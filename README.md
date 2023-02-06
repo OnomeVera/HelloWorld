@@ -22,10 +22,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://freeimage.host/i/H1tH0il' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/YohFxvS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with https://express.adobe.com/tools/convert-to-gif
+GIF created with https://www.screentogif.com/
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
